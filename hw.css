@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.project{
+  display: flex;
+  
+}
+.section{
+  width: 300px;
+padding-left: 30px;
+padding-top: 30px;
+font-size: 20px;
+border: 1px solid rgba(128, 128, 128, 0.201);
+}
+.section p,i,h2{
+margin-bottom: 15px;
+}
+.section h2{
+color: dodgerblue;  
+}
+
+
+.navbar{
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  width: 100%;
+  height: 50px;
+  padding-left: 50px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.procent{
+  display: flex;
+  gap: 100px;
+  margin-top: 10px;
+}
+.table{
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  padding-left: 50px;
+  font-size: 20px;
+}
+.table-2{
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  padding-left: 50px;
+  font-size: 20px;
+}
+.table-3{
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  padding-left: 50px;
+  font-size: 20px;
+}
+.table-4{
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  padding-left: 50px;
+  font-size: 20px;
+}
+.sales{
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  width: 100%;
+  height: 50px;
+  padding-left: 50px;
+  font-size: 15px;
+  display: flex;
+  gap: 60px;
+  margin-top: 10px;
+  padding-top: 15px;
+  
+}
+.sales h2{
+  padding-right: 950px;
+}
+.product-sec{
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  width: 100%;
+  height: 50px;
+  padding-left: 50px;
+  display: flex;
+  gap: 30px;
+  margin-top: 10px; 
+}
+.product-sec{
+  gap: 100px;
+  padding-top: 15px;
+}
+.sub{
+padding-left: 500px;
+}
+.technique {
+  border: 1px solid rgba(128, 128, 128, 0.201);
+  width: 100%;
+  height: 70px;
+  margin-top: 10px;
+  display: flex;
+  gap: 20px;
+  padding-top: 10px;
+}
+.laptop{
+  width: 50px;
+  height: 50px;
+  border-radius: 3px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.tech-btn{
+  padding-left: 100px;
+  
+}
+.money{
+  padding-left: 300px;
+  gap: 100px;
+  display: flex;
+ 
+}
